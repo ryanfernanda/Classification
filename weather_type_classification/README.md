@@ -15,16 +15,16 @@ Title : Weather Type Classification
 
 The dataset used in this project consists of the following 10 features:
 
-1. **Temperature**: Temperature in degrees Celsius (float64)
-2. **Humidity**: Humidity percentage (int64)
-3. **Wind Speed**: Wind speed in km/h (float64)
-4. **Precipitation (%)**: Precipitation percentage (float64)
-5. **Cloud Cover**: Cloud cover description (object) - e.g., partly cloudy, clear, overcast, cloudy
-6. **Atmospheric Pressure**: Atmospheric pressure in hPa (float64)
-7. **UV Index**: UV index (int64)
-8. **Season**: Season of the year (object) - e.g., Winter, Spring, Summer, Autumn
-9. **Visibility (km)**: Visibility distance in kilometers (float64)
-10. **Location**: Location description (object) - e.g., inland, mountain, coastal
+- **Temperature**: Temperature in degrees Celsius (float64)
+- **Humidity**: Humidity percentage (int64)
+- **Wind Speed**: Wind speed in km/h (float64)
+- **Precipitation (%)**: Precipitation percentage (float64)
+- **Cloud Cover**: Cloud cover description (object) - e.g., partly cloudy, clear, overcast, cloudy
+- **Atmospheric Pressure**: Atmospheric pressure in hPa (float64)
+- **UV Index**: UV index (int64)
+- **Season**: Season of the year (object) - e.g., Winter, Spring, Summer, Autumn
+- **Visibility (km)**: Visibility distance in kilometers (float64)
+- **Location**: Location description (object) - e.g., inland, mountain, coastal
 
 ### Output
 
