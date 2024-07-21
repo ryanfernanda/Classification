@@ -6,7 +6,7 @@ This project aims to classify weather types based on various meteorological feat
 
 ## Dataset
 
-<br>Title : Weather Type Classification
+Title : Weather Type Classification
 <br>Owner : Nikhil Narayan
 <br>Link  : https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
 <br>Collected on 21/07/2024 at 15.13
