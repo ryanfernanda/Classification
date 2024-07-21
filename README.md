@@ -4,6 +4,20 @@
 
 Welcome to the "Classification" repository! This repository contains various machine learning classification analyses. It showcases different algorithms applied to classification problems, including but not limited to K-Nearest Neighbors (KNN), Decision Trees, Support Vector Machines (SVM), Naive Bayes, Logistic Regression, Random Forests, and Neural Networks.
 
+## Code Examples
+
+### Loading and Preprocessing Data
+
+The code examples in this repository include data loading, preprocessing, and transformation steps such as feature scaling and encoding.
+
+### Model Implementation
+
+Each classification algorithm is implemented in its respective script or Jupyter notebook, demonstrating:
+
+- **Training**: How to train the model on the dataset.
+- **Hyperparameter Tuning**: Techniques like Grid Search for finding the best model parameters.
+- **Evaluation**: Metrics and visualizations to assess model performance.
+
 ## How to Use
 
 1. **Clone the Repository**
