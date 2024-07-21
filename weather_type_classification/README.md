@@ -4,7 +4,14 @@
 
 This project aims to classify weather types based on various meteorological features. The dataset contains information on weather conditions with the goal of predicting the type of weather (e.g., Rainy, Cloudy, Sunny, Snowy). The project employs various machine learning algorithms to achieve this classification.
 
-## Features
+## Dataset
+
+<br>Title : Weather Type Classification
+<br>Owner : Nikhil Narayan
+<br>Link  : https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
+<br>Collected on 21/07/2024 at 15.13
+
+### Features
 
 The dataset used in this project consists of the following 10 features:
 
