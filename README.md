@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the "Classification" repository! This repository contains various machine learning classification analyses. It showcases different algorithms applied to classification problems, including but not limited to K-Nearest Neighbors (KNN), Decision Trees, Support Vector Machines (SVM), Naive Bayes, Logistic Regression, Random Forests, and Neural Networks..
+Welcome to the "Classification" repository! This repository contains various machine learning classification analyses. It showcases different algorithms applied to classification problems, including but not limited to K-Nearest Neighbors (KNN), Decision Trees, Support Vector Machines (SVM), Naive Bayes, Logistic Regression, Random Forests, and Neural Networks.
 
 ## Code Examples
 
